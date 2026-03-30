@@ -1,0 +1,47 @@
+# First, let's create a new requirements file with compatible versions
+cd /Users/aakashyadav/Desktop/link-auth-checker/backend
+
+# Create the fixed requirements file
+cat > requirements-py313.txt << 'EOF'
+# Core Flask
+Flask==2.3.3
+flask-cors==4.0.0
+
+# HTTP and Networking
+requests==2.31.0
+urllib3==2.0.7
+aiohttp==3.9.1
+websockets==12.0
+
+# Web Scraping
+beautifulsoup4==4.12.2
+
+# Domain Analysis
+python-whois==0.8.0
+
+# Data Processing (Compatible with Python 3.13)
+numpy==1.26.3
+pandas==2.2.0
+scikit-learn==1.4.0
+
+# Database
+redis==5.0.1
+
+# Async and Background Tasks
+celery==5.3.6
+eventlet==0.33.3
+
+# Real-time Communication
+python-socketio==5.11.0
+
+# Security
+pyJWT==2.8.0
+bcrypt==4.1.2
+cryptography==41.0.7
+
+# System and Utilities
+psutil==5.9.8
+schedule==1.2.0
+python-dotenv==1.0.0
+EOF
+
