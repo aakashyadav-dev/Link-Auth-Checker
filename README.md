@@ -116,3 +116,8 @@ http://goo.gl/abc123	⚠️ WARNING (URL shortener)
 http://paypal-verify.tk	🔴 DANGEROUS (brand impersonation)
 https://expired.badssl.com	🔴 DANGEROUS (expired SSL)
 
+
+## Screenshots
+![Screenshot of Link Auth Checker](assets/screenshot1.png)
+![Screenshot of Link Auth Checker](assets/screenshot2.png)
+
