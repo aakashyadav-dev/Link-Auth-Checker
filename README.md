@@ -118,6 +118,5 @@ https://expired.badssl.com	🔴 DANGEROUS (expired SSL)
 
 
 ## Screenshots
-![Screenshot of Link Auth Checker](assets/screenshot1.png)
-![Screenshot of Link Auth Checker](assets/screenshot2.png)
+<img width="1426" height="822" alt="screenshot2" src="https://github.com/user-attachments/assets/7576b8f5-bad8-48f1-b060-f08511ff7340" />
 
