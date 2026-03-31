@@ -90,6 +90,12 @@ The risk score is calculated using a weighted algorithm:
 - **WARNING** (30-70%): Suspicious - proceed with caution
 - **DANGEROUS** (75-95%): Known malicious sites
 
+## Screenshots
+<img width="1426" height="822" alt="screenshot2" src="https://github.com/user-attachments/assets/ef36ffba-41e4-41ef-9de4-7ce93dd46071" />
+
+<img width="1431" height="820" alt="screenshot1" src="https://github.com/user-attachments/assets/a3d63e08-8288-462f-875d-f938abf04671" />
+
+
 ## 🚀 Quick Start
 
 ```bash
@@ -115,7 +121,3 @@ https://www.google.com	✅ SAFE (valid SSL, old domain)
 http://goo.gl/abc123	⚠️ WARNING (URL shortener)
 http://paypal-verify.tk	🔴 DANGEROUS (brand impersonation)
 https://expired.badssl.com	🔴 DANGEROUS (expired SSL)
-
-
-
- Screenshots
