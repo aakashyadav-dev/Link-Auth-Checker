@@ -1,4 +1,4 @@
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=yellow)](https://www.python.org/)
+<img width="1249" height="740" alt="Screenshot 2026-03-31 at 11 56 44 AM" src="https://github.com/user-attachments/assets/4dda33ef-a33d-40db-ac32-faa85764a9cc" />[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=yellow)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![scikit‑learn](https://img.shields.io/badge/scikit--learn-1.4-orange.svg)](https://scikit-learn.org/)
@@ -162,7 +162,8 @@ Use these URLs to test the different risk levels and verify the scanner is worki
 4.Security Research - Analyze URL patterns and user behavior
 
 ## 📊 System Architecture Overview
-![Uploading Screenshot 2026-03-31 at 11.56.44 AM.png…]()
+
+<img width="1249" height="740" alt="Screenshot 2026-03-31 at 11 56 44 AM" src="https://github.com/user-attachments/assets/ad4bef4a-2e8e-4df1-b225-76d6cb53591c" />
 
 
 
