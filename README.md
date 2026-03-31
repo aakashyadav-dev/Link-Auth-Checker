@@ -96,9 +96,10 @@ The risk score is calculated using a weighted algorithm:
 - **WARNING** (30-70%): Suspicious - proceed with caution
 - **DANGEROUS** (75-95%): Known malicious sites
 
-# (DASHBOARD OF LINK AUTH CHECKER)
+### (DASHBOARD OF LINK AUTH CHECKER)
 <img width="1426" height="822" alt="screenshot2" src="https://github.com/user-attachments/assets/ef36ffba-41e4-41ef-9de4-7ce93dd46071" />
-# (BACKGROUND SCANNER)
+
+### (BACKGROUND SCANNER)
 <img width="1431" height="820" alt="screenshot1" src="https://github.com/user-attachments/assets/a3d63e08-8288-462f-875d-f938abf04671" />
 
 ## 🚀 Quick Start
@@ -155,12 +156,12 @@ Use these URLs to test the different risk levels and verify the scanner is worki
 | http://192.168.1.1/login | DANGEROUS | IP address usage |
 
 ###  Use Cases
-
+```bash
 1.Security Awareness Training - Help users learn to identify phishing attempts
 2.Personal Security Assistant - Get personalized advice based on your behavior
 3.Threat Intelligence - Contribute to community phishing database
 4.Security Research - Analyze URL patterns and user behavior
-
+```
 ## 📊 System Architecture Overview
 
 <img width="1249" height="740" alt="Screenshot 2026-03-31 at 11 56 44 AM" src="https://github.com/user-attachments/assets/08160a29-a9cf-4c34-a756-a4c41cbfe0a4" />
