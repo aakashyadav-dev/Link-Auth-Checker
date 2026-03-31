@@ -117,7 +117,5 @@ http://paypal-verify.tk	🔴 DANGEROUS (brand impersonation)
 https://expired.badssl.com	🔴 DANGEROUS (expired SSL)
 
 
-## Screenshots
-<img width="1426" height="822" alt="screenshot2" src="https://github.com/user-attachments/assets/ba6cd5b0-0702-446c-a9ad-2042d06fc522" />
-<img width="1431" height="820" alt="screenshot1" src="https://github.com/user-attachments/assets/e1257993-f6c3-446d-b131-56c33d18f34d" />
 
+ Screenshots
